@@ -21,7 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/shreypanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreypanchal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrey panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey panchal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/25747424/shrey-panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/25747424/shrey-panchal" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shreypanchal8200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shreypanchal8200" height="30" width="40" /></a>
 <a href="https://instagram.com/shreypanchal____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreypanchal____" height="30" width="40" /></a>
 </p>
 
@@ -33,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreypanchal170&show_icons=true&locale=en" alt="shreypanchal170" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreypanchal170&" alt="shreypanchal170" /></p>
-
