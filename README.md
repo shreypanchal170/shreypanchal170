@@ -18,6 +18,8 @@
 - 💬 Ask me about **React.js and Vue.js excel in creating dynamic, responsive user interfaces, while Next.js enhances React applications with server-side rendering capabilities, improving performance and SEO. Python, with its rich ecosystem and versatility, offers powerful back-end solutions that support complex logic and data processing.**
 
 - 📫 How to reach me **shreypanchalbxxyz@gmail.com**
+- - 📫 How to reach me **shreypanchal8200@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
