@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React.Js,Python,Next.js,Vue.js**
 - https://universal-crypto-2919.dazl.live/
-- https://shrey-personal-portfolio.vercel.app/
+
 
 - 👯 I’m looking to collaborate on [Jewel_Assist](https://github.com/shreypanchal170/JEWELLERY.git)
 
 - 🤝 I’m looking for help with [Evaluation_of_Academic_Performance](https://github.com/shreypanchal170/Evaluation-academic-of-Perfromance-of-the-Student-.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreypanchal170/person-portfolio.git](https://github.com/shreypanchal170/person-portfolio.git)
+- 👨‍💻 All of my projects are available at [- https://shrey-personal-portfolio.vercel.app/)
 
 - 💬 Ask me about **React.js and Vue.js excel in creating dynamic, responsive user interfaces, while Next.js enhances React applications with server-side rendering capabilities, improving performance and SEO. Python, with its rich ecosystem and versatility, offers powerful back-end solutions that support complex logic and data processing.**
 
