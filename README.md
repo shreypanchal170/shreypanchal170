@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on [ApnaChat_Moblie_Application] , [Evaluation of perfromance adcemic] (https://github.com/shreypanchal170/Evaluation-academic-of-Perfromance-of-the-Student-.git)(https://github.com/shreypanchal170/ApnaChat.git)
 
 - 🌱 I’m currently learning **React.Js,Python,Next.js,Vue.js**
+- https://universal-crypto-2919.dazl.live/
+- https://shrey-personal-portfolio.vercel.app/
 
 - 👯 I’m looking to collaborate on [Jewel_Assist](https://github.com/shreypanchal170/JEWELLERY.git)
 
